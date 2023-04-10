@@ -1,3 +1,3 @@
 function imglink(){
-    window.open("events.html")
+    window.open("events.html", "_self")
    }
